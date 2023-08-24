@@ -1,1 +1,2 @@
 # penn-athletics
+In-game data included time-series geolocations of players, their biometrics (e.g., heart rate), speed, and game events (e.g., goals, set-piece labels). Training data was sparse but consisted of variables such as  exercise/drill names and times to completion. Much of the analysis focuses on in-game data and creating informative visualizations to develop strategic insights for the team.
